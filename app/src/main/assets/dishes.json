@@ -1,0 +1,112 @@
+{
+  "dishes": [
+    {
+      "filterDishName": "Roasted Endive with Gorgonzola and Rosemary Oil",
+      "filterDishPrice": 4.40,
+      "filterDishType": 1,
+      "filterDishCategoryA": 5,
+      "filterDishCategoryB": 3,
+      "filterImage": "http://i.imgur.com/tr3HtbX.jpg",
+      "filterDescription": "Delicious roasted endive with gorgonzola cheese, rosemary oil and a bit of the classic salt and pepper. A nice appetizer for those who don't need the meat to open their appetite!"
+    },
+    {
+      "filterDishName": "Raspberry Biscuit and Sweet Fresh Cheese Napoleon's",
+      "filterDishPrice": 4.90,
+      "filterDishType": 1,
+      "filterDishCategoryA": 0,
+      "filterDishCategoryB": 4,
+      "filterImage": "http://i.imgur.com/CB9FCvW.jpg",
+      "filterDescription": "A sweet raspberry biscuit fulfilled with fresh Napoleon's cheese. Recommended for those who need a sweet appetizer to begin with!"
+    },
+    {
+      "filterDishName": "Savory Tomato Cookies with Basil Pesto",
+      "filterDishPrice": 5.90,
+      "filterDishType": 1,
+      "filterDishCategoryA": 0,
+      "filterDishCategoryB": 2,
+      "filterImage": "http://i.imgur.com/rmyvPuC.jpg",
+      "filterDescription": "Savory cookies baked with flour, almond powder and butter and a bit of blendered sundried tomatoes. They are dressed up with creamy cheese basil pasto followed by pine nuts and parmesan cheese!"
+    },
+    {
+      "filterDishName": "Potato Tuna Cakes",
+      "filterDishPrice": 3.90,
+      "filterDishType": 1,
+      "filterDishCategoryA": 4,
+      "filterDishCategoryB": 1,
+      "filterImage": "http://i.imgur.com/88rtNsK.jpg",
+      "filterDescription": "Awesome fried potato tuna cakes for the fans of seafood and mediterranean diet. The cakes include egg, onion and the popular greek Ouzo for the lovers of the greek culture, dressed with fresh springs of thyme!"
+    },
+    {
+      "filterDishName": "Stuffed Calamari",
+      "filterDishPrice": 8.90,
+      "filterDishType": 2,
+      "filterDishCategoryA": 4,
+      "filterDishCategoryB": 3,
+      "filterImage": "http://i.imgur.com/pHuqMix.jpg",
+      "filterDescription": "Fresh stuffed calamari from the mediterranean sea, stuffed with Arborio rice and fresh grilled vegetables. The dish is dressed with spicy sweet and sour sauce and finely chopped fresh thyme!"
+    },
+    {
+      "filterDishName": "Beef Soup",
+      "filterDishPrice": 7.90,
+      "filterDishType": 2,
+      "filterDishCategoryA": 3,
+      "filterDishCategoryB": 3,
+      "filterImage": "http://i.imgur.com/TjOqOVs.jpg",
+      "filterDescription": "A warm beef soup for the lovers of meat soups followed by onions , carrots, celery stalks, finochio, leek and rice!"
+    },
+    {
+      "filterDishName": "Roast Pork Loin with a Pesto Filling",
+      "filterDishPrice": 7.40,
+      "filterDishType": 2,
+      "filterDishCategoryA": 1,
+      "filterDishCategoryB": 1,
+      "filterImage": "http://i.imgur.com/w6inPcD.jpg",
+      "filterDescription": "A piece of a roasted pork loin, filled with a pesto filling that includes potato, garlic and anise seeds and dressed with finely chopped fresh sage and rosemary!"
+    },
+    {
+      "filterDishName": "Zucchini Caponata",
+      "filterDishPrice": 6.40,
+      "filterDishType": 2,
+      "filterDishCategoryA": 2,
+      "filterDishCategoryB": 2,
+      "filterImage": "http://i.imgur.com/8sG62EE.jpg",
+      "filterDescription": "Zucchini caponata for the vegetarians. A dish with zucchinies followed by onion, garlic and tomato sauce, trimmed with a bit of traditional greek feta above!"
+    },
+    {
+      "filterDishName": "Vegetarian Black Forest Cake",
+      "filterDishPrice": 3.80,
+      "filterDishType": 3,
+      "filterDishCategoryA": 0,
+      "filterDishCategoryB": 4,
+      "filterImage": "http://i.imgur.com/ZQ81YCm.jpg",
+      "filterDescription": "Yes it is! A vegetarian black forest cake edition! A dessert with granulated sugar, lukewarm water and couverture chocolate dressed by a glaze and a cognac based maple syrup!"
+    },
+    {
+      "filterDishName": "Chocolate Baklava",
+      "filterDishPrice": 3.60,
+      "filterDishType": 3,
+      "filterDishCategoryA": 0,
+      "filterDishCategoryB": 4,
+      "filterImage": "http://i.imgur.com/OHxDMwb.jpg",
+      "filterDescription": "The traditional well-known Baklava in a chocolate edition for the chocolate fans! This dessert is made classically by finely chopped walnuts and grounded cinnamon, with the strong definition of dark chocolate cocoa couverture!"
+    },
+    {
+      "filterDishName": "Pomegranate Spoon Sweet",
+      "filterDishPrice": 2.70,
+      "filterDishType": 3,
+      "filterDishCategoryA": 0,
+      "filterDishCategoryB": 2,
+      "filterImage": "http://i.imgur.com/Eahx2Fw.jpg",
+      "filterDescription": "A pomegranate dessert for the lovers of spoon sweets.It's strong taste and sweetness occurs to the vanilla and cinnamon extracs with the enchantment of the glycose syrup!"
+    },
+    {
+      "filterDishName": "Mocha Meringue Roulade",
+      "filterDishPrice": 3.10,
+      "filterDishType": 3,
+      "filterDishCategoryA": 0,
+      "filterDishCategoryB": 4,
+      "filterImage": "http://i.imgur.com/56sbeQ8.jpg",
+      "filterDescription": "This is a mocha meringue roulade with a light coffee cream filling. It is dressed with cookies and caramelized walnuts!"
+    }
+  ]
+}

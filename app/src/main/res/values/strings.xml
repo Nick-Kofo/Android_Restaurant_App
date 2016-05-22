@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">RestaurantApp</string>
+
+    //Resources Main
+    <string name="Welcome">Welcome to our restaurant</string>
+    <string name="Menu">Menu</string>
+    <string name="Website">Website</string>
+    <string name="Contact">Contact</string>
+    <string name="About">About</string>
+
+    //Resources Search Dishes
+    <string name="DishName">Dish Name</string>
+    <string name="DishPrice">Dish Price</string>
+    <string name="DishType">Dish Type</string>
+    <string name="DishCategoryA">Dish Category</string>
+    <string name="DishCategoryB">More Options</string>
+    <string name="Search">Search</string>
+
+    //Spinner Dish Types
+    <string name="Appetizer">Appetizer</string>
+    <string name="Main">Main</string>
+    <string name="Dessert">Dessert</string>
+
+    //Spinner Dish CategoryA
+    <string name="Meat">Meat</string>
+    <string name="Stew">Stew</string>
+    <string name="Soup">Soup</string>
+    <string name="SeaFood">SeaFood</string>
+    <string name="Salad">Salad</string>
+
+    //Spinner Dish CategoryB
+    <string name="Frozen">Frozen</string>
+    <string name="Vegetarian">Vegetarian</string>
+    <string name="Savory">Savory</string>
+    <string name="Sweet">Sweet</string>
+
+    //About Page
+    <string name="CheckOurApps">Check Our Applications</string>
+    <string name="Tei">ΤΕΙ ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ</string>
+    <string name="Mde">ΜΔΕ ΕΦΑΡΜΟΣΜΕΝΗ ΠΛΗΡΟΦΟΡΙΚΗ</string>
+    <string name="Mathima">Η εφαρμογή αναπτύχθηκε στα πλαίσια του μαθήματος Ανάπτυξη Εφαρμογών Σε Κινητές Συσκευές με την καθοδήγηση των καθηγητών:</string>
+    <string name="Georgiadis">Απόστολος Γεωργιάδης</string>
+    <string name="Vologianidis">Σταύρος Βολογιανίδης</string>
+    <string name="Kofotolios">Νίκος Κοφοτόλιος</string>
+    <string name="Chanlioglou">Φώτης Χανλήογλου</string>
+    <string name="linkGeorgiadis">http://teachers.teicm.gr/tolisg/cv_en.html</string>
+    <string name="linkVologianidis">http://teachers.teicm.gr/vologian/</string>
+    <string name="linkKofotolios">https://play.google.com/store/search?q=kofotolios</string>
+    <string name="linkChanlioglou">https://play.google.com/store/search?q=chanlioglou</string>
+
+    //Admin Login Page
+    <string name="AdminUserName">User Name</string>
+    <string name="AdminPassword">Password</string>
+
+    //Add Dish Page
+    <string name="Description">Description</string>
+
+    //General
+    <string name="UnderConstruction">Website is under construction.</string>
+    <string name="Loading">Loading, please wait.</string>
+    <string name="Connecting">Connecting to server.</string>
+    <string name="ServerError">Unable to fetch data from server.</string>
+    <string name="NoDishes">No dishes found.</string>
+    <string name="EmailError">There are no email clients installed.</string>
+    <string name="Subject">Subject</string>
+    <string name="Message">Message</string>
+    <string name="Type">Type: </string>
+    <string name="Price">Price: </string>
+    <string name="GoodAppetite">Good Appetite</string>
+    <string name="WrongAdmin">Wrong Username or Password</string>
+    <string name="DishCreated">Dish Created</string>
+
+</resources>

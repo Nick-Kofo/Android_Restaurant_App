@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RestaurantApp</string>
+
+    //Resources Main
+    <string name="Welcome">Καλώς ήρθατε στο εστιατόριο μας</string>
+    <string name="Menu">Μενού</string>
+    <string name="Website">Ιστοσελίδα</string>
+    <string name="Contact">Επικοινωνία</string>
+    <string name="About">Σχετικά</string>
+
+    //Resources Search Dishes
+    <string name="DishName">Όνομα</string>
+    <string name="DishPrice">Τιμή</string>
+    <string name="DishType">Τύπος</string>
+    <string name="DishCategoryA">Κατηγορία</string>
+    <string name="DishCategoryB">Περισσότερες Επιλογές</string>
+    <string name="Search">Αναζήτηση</string>
+
+    //Spinner Dish Types
+    <string name="Appetizer">Ορεκτικό</string>
+    <string name="Main">Κυρίως Πιάτο</string>
+    <string name="Dessert">Επιδόρπιο</string>
+
+    //Spinner Dish CategoryA
+    <string name="Meat">Κρεατικό</string>
+    <string name="Stew">Λαδερό</string>
+    <string name="Soup">Σούπα</string>
+    <string name="SeaFood">Θαλασσινό</string>
+    <string name="Salad">Σαλάτα</string>
+
+    //Spinner Dish CategoryB
+    <string name="Frozen">Κατεψυγμένο</string>
+    <string name="Vegetarian">Χορτοφαγικό</string>
+    <string name="Savory">Αλμυρό</string>
+    <string name="Sweet">Γλυκό</string>
+
+    //About Page
+    <string name="CheckOurApps">Δείτε τις άλλες εφαρμογές μας.</string>
+    <string name="Tei">ΤΕΙ ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ</string>
+    <string name="Mde">ΜΔΕ ΕΦΑΡΜΟΣΜΕΝΗ ΠΛΗΡΟΦΟΡΙΚΗ</string>
+    <string name="Mathima">Η εφαρμογή αναπτύχθηκε στα πλαίσια του μαθήματος Ανάπτυξη Εφαρμογών Σε Κινητές Συσκευές με την καθοδήγηση των καθηγητών:</string>
+    <string name="Georgiadis">Απόστολος Γεωργιάδης</string>
+    <string name="Vologianidis">Σταύρος Βολογιανίδης</string>
+    <string name="Kofotolios">Νίκος Κοφοτόλιος</string>
+    <string name="Chanlioglou">Φώτης Χανλήογλου</string>
+    <string name="linkGeorgiadis">http://teachers.teicm.gr/tolisg/cv_en.html</string>
+    <string name="linkVologianidis">http://teachers.teicm.gr/vologian/</string>
+    <string name="linkKofotolios">https://play.google.com/store/search?q=kofotolios</string>
+    <string name="linkChanlioglou">https://play.google.com/store/search?q=chanlioglou</string>
+
+    //Admin Login Page
+    <string name="AdminUserName">Όνομα Χρήστη</string>
+    <string name="AdminPassword">Κωδικός</string>
+
+    //Add Dish Page
+    <string name="Description">Περιγραφή</string>
+
+    //General
+    <string name="UnderConstruction">Η ιστοσελίδα είναι υπό κατασκευή.</string>
+    <string name="Loading">Φόρτωση, παρακαλώ περιμένετε.</string>
+    <string name="Connecting">Σύνδεση με Server.</string>
+    <string name="ServerError">Πρόβλημα με τη σύνδεση στο Server.</string>
+    <string name="NoDishes">Δεν βρέθηκαν πιάτα.</string>
+    <string name="EmailError">Δεν υπάρχουν εφαρμογές για αποστολή email.</string>
+    <string name="Subject">Θέμα</string>
+    <string name="Message">Μήνυμα</string>
+    <string name="Type">Τύπος: </string>
+    <string name="Price">Τιμή: </string>
+    <string name="GoodAppetite">Καλή Όρεξη</string>
+    <string name="WrongAdmin">Λάθος όνομα χρήστη ή κωδικός</string>
+    <string name="DishCreated">Το πιάτο καταχωρήθηκε</string>
+
+</resources>
